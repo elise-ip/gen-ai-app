@@ -4,3 +4,4 @@ langchain-core
 pydantic
 langchain-openai
 langchain-community
+langchain_experimental
